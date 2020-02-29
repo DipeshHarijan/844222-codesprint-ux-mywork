@@ -1,0 +1,13 @@
+{
+    "appointment":[
+        {
+            "sNo":101,
+            "name":"Andy Walker",
+            "address":"Times Square",
+            "city":"Manhattan",
+            "package":5000,
+            "trainer_preference":"female",
+            "phone":9829282928
+        }
+    ]
+}

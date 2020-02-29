@@ -1,0 +1,23 @@
+My associate id:
+    844222
+Other team members:
+    84417, 844204, 844228, 844202
+Team lead:
+    844222
+My Role in team:
+    1. To develop homepage and contact us component and uploading in json server
+My development files:
+    1. dashboard.component
+    2. appointment.json
+    3. header.component
+    4. navbar.component
+    5. model class
+    6. contact us
+I was strong in:
+    1. Template Driven Forms
+    2. HttpClient
+    3. Documentation
+I was weak in:
+    1. Reactive Forms and Forms Validation
+Feedback:
+    1. Able to read codesprint document 1 day in advance will help.
